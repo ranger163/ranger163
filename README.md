@@ -1,5 +1,9 @@
 ## Ahmed Nassar - @ranger163
-### Hey There 👋
+### Welcome to "the" profile :mask: 👋
+
+<p align="center">
+  <img width="800" height="450" src="badges/rick.gif">
+</p>
 
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
