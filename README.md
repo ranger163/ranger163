@@ -1,16 +1,29 @@
-### Hi there 👋
+## Ahmed Nassar - @ranger163
+### Hey There 👋
 
-<!--
-**ranger163/ranger163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-Here are some ideas to get you started:
+[![Email ranger163](badges/email.svg)](mailto:ahmed.nassar163@gmail.com)
+[![Website ranger163](badges/website.svg)](https://inassar.me/)
+<br>
+[![Twitter ranger163](badges/twitter.svg)](https://twitter.com/ranger163)
+[![LinkedIn ranger163](badges/linkedin.svg)](https://www.linkedin.com/in/ranger163/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```kotlin
+object Nassar {
+ val name = "Ahmed Nassar"
+ 
+ val primarySkillset = "Android"
+ val otherSkillset = "SpringBoot, Flutter"
+ val languages = listOf("Kotlin", "Java", "Dart", "Angular")
+
+ val website = "https://inassar.me/"
+ val contact = "@ranger163".apply {
+   twitter = this
+   linkedin = this
+   email = "ahmed.nassar163@gmail.com"
+ }
+
+}
+```
