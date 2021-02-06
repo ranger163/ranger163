@@ -5,6 +5,8 @@
   <img width="800" height="450" src="badges/rick.gif">
 </p>
 
+<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranger163&show_icons=true&hide_border=false&count_private=true" />
+
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 [![Email ranger163](badges/email.svg)](mailto:ahmed.nassar163@gmail.com)
