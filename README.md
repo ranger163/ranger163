@@ -11,7 +11,7 @@ object Nassar {
  val name = "Ahmed Nassar"
  
  val primarySkillset = "Android"
- val otherSkillset = "SpringBoot, Flutter"
+ val otherSkillset = "SpringBoot, Flutter, Ktor Server Framework, Kotlin Multiplatform Mobile"
  val languages = listOf("Kotlin", "Java", "Dart", "Angular")
 
  val website = "https://inassar.me/"
