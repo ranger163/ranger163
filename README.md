@@ -1,5 +1,6 @@
 ## Ahmed Nassar - @ranger163
 ### Welcome to "THE" profile :mask: 👋
+#### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 <p align="center">
   <img width="800" height="450" src="badges/rick.gif">
@@ -23,14 +24,25 @@ object Nassar {
 
 }
 ```
+---
 
-<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranger163&show_icons=true&hide_border=false&count_private=true" />
+<p align="center">
+    <a href="https://github.com/ranger163"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranger163&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/ranger163"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ranger163&theme=dracula&hide_border=true"></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranger163)](https://github.com/ranger163)
+<p align="center">
+    <a href="https://github.com/ranger163?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ranger163?label=GitHub&logo=GitHub&style=for-the-badge"></a>
+    <a href="https://twitter.com/ranger163"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ranger163?label=Twitter&logo=Twitter&style=for-the-badge"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/ranger163"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ranger163&style=flat-square"></a>
+</p>
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-
-[![Email ranger163](badges/email.svg)](mailto:ahmed.nassar163@gmail.com)
-[![Website ranger163](badges/website.svg)](https://inassar.me/)
-[![Twitter ranger163](badges/twitter.svg)](https://twitter.com/ranger163)
-[![LinkedIn ranger163](badges/linkedin.svg)](https://www.linkedin.com/in/ranger163/)
+## Having some thoughts? 
+### Contact me here or follow me on twitter I tweet about tech stuff and share cat memes all the time.
+[<img align="left" width="22" alt="ranger163 on Gmail" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg">](mailto:ahmed.nassar163@gmail.com)
+[<img align="left" width="22" alt="ranger163 on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/ranger16394)
+[<img align="left" width="22" alt="ranger163 on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/ranger163)
+[<img align="left" width="22" alt="ranger163 on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/ranger163)
+<br>
