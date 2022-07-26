@@ -15,7 +15,7 @@ object Nassar {
  val otherSkillset = "SpringBoot, Flutter, Ktor Server Framework, Kotlin Multiplatform Mobile"
  val languages = listOf("Kotlin", "Java", "Dart", "Angular")
 
- val website = "https://inassar.me/"
+ val website = "http://www.inassar.me"
  val contact = "@ranger163".apply {
    twitter = this
    linkedin = this
