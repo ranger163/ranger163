@@ -10,15 +10,17 @@
 ```kotlin
 object Nassar {
  val name = "Ahmed Nassar"
+ val title = "Senior Software Engineer"
  
  val primarySkillset = "Android"
  val otherSkillset = "SpringBoot, Flutter, Ktor Server Framework, Kotlin Multiplatform Mobile"
  val languages = listOf("Kotlin", "Java", "Dart", "Angular")
 
- val website = "http://www.inassar.me"
+ val website = "https://www.inassar.me"
  val contact = "@ranger163".apply {
    twitter = this
    linkedin = this
+   instagram = "${this}94"
    email = "ahmed.nassar163@gmail.com"
  }
 
